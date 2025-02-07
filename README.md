@@ -1,6 +1,6 @@
 # Enchantment Extraction Book
 
-Extract enchantments from weapons, tools and armor!
+Extract enchantments from weapons, tools and armor without lose the item!
 
 Version: `1.21.4`
 
