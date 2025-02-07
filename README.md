@@ -6,7 +6,7 @@ Version: `1.21.4`
 
 ## Recipe
 
-[recipe](https://raw.githubusercontent.com/lullaby6/enchantment-extraction-book/refs/heads/main/images/recipe.pngg)
+![recipe](https://raw.githubusercontent.com/lullaby6/enchantment-extraction-book/refs/heads/main/images/recipe.pngg)
 
 ## Commands
 
