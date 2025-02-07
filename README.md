@@ -6,7 +6,7 @@ Version: `1.21.4`
 
 ## Usage
 
-Right-Click while holding in the main hand a `Extraction Enchantment Book` and a enchanted item in the off hand.
+Right-Click while holding in the main hand a `Enchantment Extraction Book` and a enchanted item in the off hand.
 
 ## Recipe
 
