@@ -10,7 +10,7 @@ Right-Click while holding in the main hand a `Enchantment Extraction Book` and a
 
 ## Recipe
 
-![recipe](https://raw.githubusercontent.com/lullaby6/enchantment-extraction-book/refs/heads/main/images/recipe.png)
+![recipe](https://raw.githubusercontent.com/lullaby6/enchantment-extraction-book-data-pack/refs/heads/main/images/recipe.png)
 
 ## Commands
 
